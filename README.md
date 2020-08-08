@@ -14,6 +14,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Watching videos instead of reading books](http://Hkattelu.github.io/blog/blog/books/2020/03/15/Watching-videos-instead-of-reading.html)
+- [Why I'll never get tired of Math](http://Hkattelu.github.io/blog/blog/personal/2020/03/14/Learning-Math.html)
+- [Lessons in leadership: My last year and a half at Google](http://Hkattelu.github.io/blog/blog/personal/2020/03/13/2020-The-last-year-and-a-half-at-google.html)
+- [My favorite parts of Pittsburgh](http://Hkattelu.github.io/blog/blog/travel/2020/03/11/My-favorite-parts-of-pittsburgh.html)
+- [I Quit learning flow arts and juggling](http://Hkattelu.github.io/blog/blog/flow/2020/03/10/Quitting-juggling-actively.html)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://Hkattelu.github.io
