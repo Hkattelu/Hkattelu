@@ -1,8 +1,8 @@
 ### Hello! I'm [Himanshu][website], a Front end software engineer @ Google
 
 ## I'm an Engineer, Gamer, Music Producer, and Blogger!
-- 🔭 I’m currently working on the Cloud Logging UI @ Google!
-- 🌱 I recently finished Dark Souls 3
+- 🔭 I’m currently working on the Education on Search @ Google!
+- 🌱 I recently finished Dark Souls remastered
 - 🥅 2020 Goals: Finish my music album
 - ⚡ Fun fact: I love to spin poi and juggle
 
