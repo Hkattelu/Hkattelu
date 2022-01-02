@@ -1,8 +1,8 @@
 ### Hello! I'm [Himanshu][website], a Front end software engineer @ Google
 
-## I'm an Engineer, Gamer, and Blogger!
+## I'm an Engineer, Gamer, and Fitness enthusiast!
 - 🔭 I’m currently working on the Education on Search @ Google!
-- 🌱 I recently finished Nioh 2
+- 🌱 I recently finished the Last of us Part 2
 - ⚡ Fun fact: I love to spin poi and juggle
 
 ### Connect with me:
