@@ -1,8 +1,8 @@
-### Hello! I'm [Himanshu][website], a Front end software engineer @ Google
+### Hello! I'm [Himanshu][website], a Senior software engineer @ Google
 
 ## I'm an Engineer, Gamer, and Fitness enthusiast!
-- 🔭 I’m currently working on the Education on Search @ Google!
-- 🌱 I recently finished the Last of us Part 2
+- 🔭 I’m currently working on Youtube @ Google!
+- 🌱 I recently finished Persona 4 Golden
 - ⚡ Fun fact: I love to spin poi and juggle
 
 ### Connect with me:
