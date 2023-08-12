@@ -2,13 +2,14 @@
 
 ## I'm an Engineer, Gamer, and Fitness enthusiast!
 - 🔭 I’m currently working on Youtube @ Google!
-- 🌱 I recently finished Persona 4 Golden
+- 🌱 I recently finished Pizza Tower!
 - ⚡ Fun fact: I love to spin poi and juggle
 
 ### Connect with me:
 [<img align="left" alt="Webiste" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube" />][youtube] 
 <br />
 
 ### 📕 Latest Blog Posts
@@ -23,3 +24,4 @@
 [website]: https://Hkattelu.github.io
 [instagram]: https://instagram.com/byemanshu
 [linkedin]: https://linkedin.com/in/himanshukattelu
+[youtube]: https://www.youtube.com/channel/UCVdwqa11Ixf0MwpsVfzCZHw
