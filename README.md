@@ -2,7 +2,7 @@
 
 ## I'm an Engineer, Gamer, and Fitness enthusiast!
 - 🔭 I’m currently working on Youtube @ Google!
-- 🌱 I recently finished Chants of Sennar!
+- 🌱 I recently finished Metaphor: Refantazio!
 - ⚡ Fun fact: I love to spin poi and juggle
 
 ### Connect with me:
