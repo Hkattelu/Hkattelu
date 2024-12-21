@@ -8,8 +8,6 @@
 ### Connect with me:
 - [Website][website] 
 - [LinkedIn][linkedin] 
-- [Instagram][instagram] 
-- [Youtube][youtube] 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
