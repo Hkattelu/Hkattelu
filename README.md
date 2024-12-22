@@ -1,13 +1,11 @@
-### Hello! I'm [Himanshu][website], a Senior software engineer @ Google
+### Hi 👋, I'm Himanshu
 
-## I'm an Engineer, Gamer, and Fitness enthusiast!
-- 🔭 I’m currently working on Youtube @ Google!
-- 🌱 I recently finished Metaphor: Refantazio!
+#### I'm a Senior software engineer, Gamer, Fitness enthusiast, and Video editor!
+- 🔭 I’m currently working on Youtube @ Google
+- 🌱 I recently finished Metaphor: Refantazio
 - ⚡ Fun fact: I love to spin poi and juggle
-
-### Connect with me:
-- [Website][website] 
-- [LinkedIn][linkedin] 
+- 📄 Know more about [my experiences](https://hkattelu.com)
+- 📫 Connect me with on [Linkedin](https://linkedin.com/in/himanshukattelu)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,8 +15,3 @@
 - [My favorite parts of Pittsburgh](https://Hkattelu.github.io/blog/travel/2020/03/11/My-favorite-parts-of-pittsburgh.html)
 - [I Quit learning flow arts and juggling](https://Hkattelu.github.io/blog/flow/2020/03/10/Quitting-juggling-actively.html)
 <!-- BLOG-POST-LIST:END -->
-
-[website]: https://Hkattelu.github.io
-[instagram]: https://instagram.com/byemanshu
-[linkedin]: https://linkedin.com/in/himanshukattelu
-[youtube]: https://www.youtube.com/channel/UCVdwqa11Ixf0MwpsVfzCZHw
