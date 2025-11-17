@@ -5,7 +5,7 @@
 - 🌱 I'm recently finished Dispatch!
 - ⚡ Fun fact: I love to spin poi and juggle
 - 📄 Know more about [my experiences](https://hkattelu.com)
-- 📫 Connect me with on [Linkedin](https://linkedin.com/in/himanshukattelu)
+- 📫 Connect me with on [Linkedin](https://linkedin.com/in/himanshukattelu) 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,4 +16,4 @@
 - [How important is coding fast?](https://hkattelu.com/blog/programming-environments-my-vim-setup/)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hkattelu&label=Profile views&color=0e75b6&style=flat" alt="Hkattelu" /> </p>
+![](https://komarev.com/ghpvc/?username=Hkattelu&label=Profile%20views&color=0e75b6&style=flat)
