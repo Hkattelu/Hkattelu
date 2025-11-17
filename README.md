@@ -2,7 +2,7 @@
 
 #### I'm a Senior software engineer, Fitness enthusiast, and Story teller!
 - 🔭 I’m currently working on Youtube @ Google
-- 🌱 I'm recently finished Lorelei and the Laser Eyes!
+- 🌱 I'm recently finished Dispatch!
 - ⚡ Fun fact: I love to spin poi and juggle
 - 📄 Know more about [my experiences](https://hkattelu.com)
 - 📫 Connect me with on [Linkedin](https://linkedin.com/in/himanshukattelu)
@@ -15,3 +15,5 @@
 - [Why I'll never get tired of Math](https://hkattelu.com/blog/learning-math/)
 - [How important is coding fast?](https://hkattelu.com/blog/programming-environments-my-vim-setup/)
 <!-- BLOG-POST-LIST:END -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hkattelu&label=Profile views&color=0e75b6&style=flat" alt="Hkattelu" /> </p>
