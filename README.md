@@ -9,9 +9,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Prompt engineering tips](https://hkattelu.com/blog/prompt-engineering-tips/)
-- [Prototype fast, ship safe](https://hkattelu.com/blog/prototype-fast-ship-safe/)
-- [Reflecting on the inherent value of engineering](https://hkattelu.com/blog/the-value-of-engineering/)
+- [Learning to draw](https://hkattelu.com/blog/learning-how-to-draw/)
+- [Dumbifying my Nothing Phone](https://hkattelu.com/blog/dumbifying-my-nothing-phone/)
+- [Learning Powershell from Bash](https://hkattelu.com/blog/learning-powershell-from-bash/)
+- [A guide to reducing your Youtube Usage](https://hkattelu.com/blog/a-guide-to-reduce-your-youtube-usage/)
 - [Why I'll never get tired of Math](https://hkattelu.com/blog/learning-math/)
 - [How important is coding fast?](https://hkattelu.com/blog/programming-environments-my-vim-setup/)
 <!-- BLOG-POST-LIST:END -->
