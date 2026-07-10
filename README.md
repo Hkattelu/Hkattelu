@@ -2,7 +2,7 @@
 
 #### Creating Real Bizzare Software | Formerly a Software Engineer @ Youtube
 - 🔭 I’m currently working on a video game and [my youtube channel](https://www.youtube.com/@Glowstringman)
-- 🌱 I'm recently finished Dosa Divas!
+- 🌱 I'm recently finished MotionRec!
 - ⚡ Fun fact: I love to spin poi and juggle
 - 📄 Know more about [my experiences](https://hkattelu.com)
 - 📫 Connect me with on [Linkedin](https://linkedin.com/in/himanshukattelu) 
