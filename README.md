@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Himanshu
 
-#### Creating Real Bizzare Software | Formerly a Software Engineer @ Youtube
+#### Creating Real Bizarre Software | Formerly a Software Engineer @ Youtube
 - 🔭 I’m currently working on a video game and [my youtube channel](https://www.youtube.com/@Glowstringman)
 - 🌱 I'm recently finished MotionRec!
 - ⚡ Fun fact: I love to spin poi and juggle
