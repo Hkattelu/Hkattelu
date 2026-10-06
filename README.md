@@ -1,11 +1,12 @@
 ### Hi 👋, I'm Himanshu
 
-#### Creating Real Bizarre Software | Formerly a Software Engineer @ Youtube
-- 🔭 I’m currently working on a video game and [my youtube channel](https://www.youtube.com/@Glowstringman)
-- 🌱 I'm recently finished MotionRec!
-- ⚡ Fun fact: I love to spin poi and juggle
-- 📄 Know more about [my experiences](https://hkattelu.com)
-- 📫 Connect me with on [Linkedin](https://linkedin.com/in/himanshukattelu) 
+I'm making games at [Real Bizarre Software](https://www.realbizarresoftware.com/), my independent studio in New York City. Before this, I was a senior software engineer at Google, working on YouTube and Cloud Logging.
+
+- 🔭 You can try [Psychic Siege](https://www.realbizarresoftware.com/play/psychic-siege) in your browser.
+- 🌱 I recently finished playing MotionRec!
+- ⚡ Outside of work, I love to spin poi and juggle.
+- 📄 More about [my work and projects](https://hkattelu.com).
+- 📫 Find me on [LinkedIn](https://linkedin.com/in/himanshukattelu).
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
