@@ -1,9 +1,8 @@
 ### Hi 👋, I'm Himanshu
 
-I'm making games at [Real Bizarre Software](https://www.realbizarresoftware.com/), my independent studio in New York City. Before this, I was a senior software engineer at Google, working on YouTube and Cloud Logging.
+I'm making games at [Real Bizarre Software](https://www.realbizarresoftware.com/). Before this, I was a senior software engineer at Google, working on YouTube and Cloud Logging.
 
-- 🔭 You can try [Psychic Siege](https://www.realbizarresoftware.com/play/psychic-siege) in your browser.
-- 🌱 I recently finished playing MotionRec!
+- 🌱 I recently finished playing The First Berseker: Khazan!
 - ⚡ Outside of work, I love to spin poi and juggle.
 - 📄 More about [my work and projects](https://hkattelu.com).
 - 📫 Find me on [LinkedIn](https://linkedin.com/in/himanshukattelu).
